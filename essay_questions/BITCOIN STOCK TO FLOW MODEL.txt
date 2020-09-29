@@ -1,0 +1,29 @@
+STOCK TO FLOW
+
+The stock to flow model is a way to measure the abundance or scarcity of an asset. The stock to flow ratio is the current supply(stock) of an asset by the new supply(flow) of that asset.
+
+The stock to flow model tends to be popular for some assets such as gold, silver, bitcoin, and some other cryptocurrencies. Taking gold for an example, the amount(stock) of gold ever mined is around 190,000 tons and the current amount mined every year is about 2,000 tons. This means that the stock to flow ratio of gold is about 95. This high stock to flow ratio is what makes gold very valuable.
+
+According to the stock to flow model, an asset has more value when the stock to flow ratio is high, that is when the stock is very large compared to the new supply. So the scarcity of a resource leads to an increase in the worth of that resource.
+
+
+STOCK TO FLOW AND BITCOIN
+
+As resources such as gold and silver are limited, the stock to flow model applies to bitcoin as the amount of newly produced bitcoin is extremely small compared to the existing stock.
+
+Bitcoin halving is a system of dividing the wide variety of generated rewards consistent with a block, which caps the total supply of Bitcoin and ensures that it does not exceed 21 million coins.
+
+Lead by a twitter user with the name “PlanB”, according to the stock to flow model and based on its increasing scarcity, bitcoin will be fifty-five thousand dollars ($55,000) by 2021
+
+
+
+WHY STOCK TO FLOW MODEL IS BAD
+The stock to flow model for example cannot be used to explain the prices of other cryptocurrencies. This makes it so that the value of a cryptocurrency is based entirely on its demand. A cryptocurrency or coin could have a high stock to flow ratio but if there isn't enough demand, it still would not be valuable. The issue with other coins can be solved with decentralization.
+
+Analyzing the fundamental basis of the model, it becomes clear that the model is based on the rather strong postulation that the rate of new supply of a monetary good (e.g. gold and silver) directly dictates the USD market capitalization. There is no proven research or evidence to support this theory, other than the singular data points selected to chart gold and silver’s market capitalization against bitcoin’s trajectory.
+
+The stock to flow model does not take into consideration the deceleration factor. The model assumes that there will be a constant exponential growth. This is not achievable as there will be a time where the market will reach saturation and exponential growth would not be possible. The growth will slow down as bitcoin value gets higher at some point.
+
+A nonstop rise does not happen with any asset. It has never happened before in history. At some point in time, growth will be slow for a long while.
+
+
