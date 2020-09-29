@@ -1,0 +1,11 @@
+Using recursion to find the fibonacci sequence of a number causes multiple redundant calls(overlapping)
+by recomputing same values over and over again.
+
+fib(10) = fib(9) + fib(8)
+fib(9) = fib(8) + fib(7)
+fib(8) = fib(7) + fib(6)
+
+Using this method, fib(5) will make 15 calls, fib(10) will make 177 calls and 
+fibonacci(20) will make 20,000 calls.
+
+This can be overcome by using Memoization or by using iterative method to calculate the fibonacci of a number.
